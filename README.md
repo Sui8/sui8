@@ -1,7 +1,8 @@
 ## Hi there 👋
-<p align="left"> 
-  <img alt="Top Langs" height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sui8&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="220px" src="https://github-readme-stats.vercel.app/api?username=sui8&theme=tokyonight&show_icons=true" />
+PythonでDiscordのBotとかくだらないものをつくってます
+<p align="left">
+  <img alt="Top Langs" height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sui8&show_icons=true&theme=tokyonight" />
+  <!--<img alt="github stats" height="220px" src="https://github-readme-stats.vercel.app/api?username=sui8&theme=tokyonight&show_icons=true" />-->
 </p>
 <!--
 **sui8/sui8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
