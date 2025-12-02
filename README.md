@@ -5,8 +5,6 @@ PythonでDiscordのBotとかくだらないものをつくってます
 ## My skills and others
 [![My Skills](https://skillicons.dev/icons?i=python,discord,bots,replit,twitter)](https://skillicons.dev)
 
-## Have a little experience in...
-[![My Skills](https://skillicons.dev/icons?i=unity,arduino,blender,cloudflare,docker,git,html,linux,mastodon,misskey,mysql,notion,opencv,swift,php,gmail,instagram,github,visualstudio,vscode,windows)](https://skillicons.dev)
 <p align="left">
   <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sui8&show_icons=true" />
   <!--<img alt="github stats" height="220px" src="https://github-readme-stats.vercel.app/api?username=sui8&theme=tokyonight&show_icons=true" />-->
