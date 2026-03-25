@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=Sui8&color=green)
 # Hi there 👋
-bot development for 5+ years using `discord.py`🔰  
+I love `discord.py`🔰  
 
 ## My skills and others
 [![My Skills](https://skillicons.dev/icons?i=python,discord,bots,replit,twitter)](https://skillicons.dev)
