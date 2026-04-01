@@ -6,7 +6,7 @@ I love `discord.py`🔰
 [![My Skills](https://skillicons.dev/icons?i=python,discord,bots,replit,twitter)](https://skillicons.dev)
 
 <p align="left">
-  <img alt="Top Langs" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sui8&show_icons=true" />
+  <img alt="Top Langs" height="300px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sui8" />
   <!--<img alt="github stats" height="220px" src="https://github-readme-stats.vercel.app/api?username=sui8&theme=tokyonight&show_icons=true" />-->
 </p>
 <!--
